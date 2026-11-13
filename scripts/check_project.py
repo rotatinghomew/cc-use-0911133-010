@@ -15,6 +15,7 @@ def main() -> int:
     commands = [
         [sys.executable, "-m", "unittest", "discover", "-s", config["tests"], "-v"],
         [sys.executable, "-m", "unittest", "discover", "-s", "tests/analysis_context", "-v"],
+        [sys.executable, "-m", "unittest", "discover", "-s", "tests/acquisition_trials", "-v"],
         [sys.executable, "-m", "compileall", "-q", config["package"], "tests", "scripts"],
     ]
     for command in commands:
@@ -32,6 +33,10 @@ def main() -> int:
         if not isinstance(response, dict) or not response:
             raise RuntimeError("服务没有输出有效结果")
         print(json.dumps(response, ensure_ascii=False, sort_keys=True), flush=True)
+    # 主动采样采购闭环：真实走完两轮（含部分回执、乱序、更正、撤销、中断恢复）
+    demo_command = [sys.executable, "scripts/run_acquisition_demo.py"]
+    print("执行：", " ".join(demo_command), flush=True)
+    subprocess.run(demo_command, cwd=root, check=True, timeout=60)
     print(json.dumps({"结果": "通过", "耗时秒": round(time.monotonic() - started, 3)}, ensure_ascii=False))
     return 0
 
