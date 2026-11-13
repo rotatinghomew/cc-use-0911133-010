@@ -1,0 +1,2434 @@
+{
+  "schema_version": 1,
+  "seed": 83,
+  "budget_per_round": 60,
+  "round_limit": 2,
+  "training": [
+    {
+      "asset_id": "asset-000",
+      "family": "family-000",
+      "supplier": "supplier-0",
+      "features": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "purposes": [
+        "display"
+      ],
+      "unit_cost": 1,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-001",
+      "family": "family-001",
+      "supplier": "supplier-1",
+      "features": [
+        0.1,
+        0.16666666666666666,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-002",
+      "family": "family-002",
+      "supplier": "supplier-2",
+      "features": [
+        0.2,
+        0.3333333333333333,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-003",
+      "family": "family-003",
+      "supplier": "supplier-3",
+      "features": [
+        0.3,
+        0.5,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-004",
+      "family": "family-004",
+      "supplier": "supplier-4",
+      "features": [
+        0.4,
+        0.6666666666666666,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-005",
+      "family": "family-005",
+      "supplier": "supplier-0",
+      "features": [
+        0.5,
+        0.8333333333333334,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-006",
+      "family": "family-006",
+      "supplier": "supplier-1",
+      "features": [
+        0.6,
+        1.0,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-007",
+      "family": "family-007",
+      "supplier": "supplier-2",
+      "features": [
+        0.7,
+        0.0,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-008",
+      "family": "family-008",
+      "supplier": "supplier-3",
+      "features": [
+        0.8,
+        0.16666666666666666,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-009",
+      "family": "family-009",
+      "supplier": "supplier-4",
+      "features": [
+        0.9,
+        0.3333333333333333,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-010",
+      "family": "family-010",
+      "supplier": "supplier-0",
+      "features": [
+        1.0,
+        0.5,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-011",
+      "family": "family-011",
+      "supplier": "supplier-1",
+      "features": [
+        0.0,
+        0.6666666666666666,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-012",
+      "family": "family-012",
+      "supplier": "supplier-2",
+      "features": [
+        0.1,
+        0.8333333333333334,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-013",
+      "family": "family-013",
+      "supplier": "supplier-3",
+      "features": [
+        0.2,
+        1.0,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-014",
+      "family": "family-014",
+      "supplier": "supplier-4",
+      "features": [
+        0.3,
+        0.0,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-015",
+      "family": "family-015",
+      "supplier": "supplier-0",
+      "features": [
+        0.4,
+        0.16666666666666666,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-016",
+      "family": "family-016",
+      "supplier": "supplier-1",
+      "features": [
+        0.5,
+        0.3333333333333333,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-017",
+      "family": "family-017",
+      "supplier": "supplier-2",
+      "features": [
+        0.6,
+        0.5,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-018",
+      "family": "family-018",
+      "supplier": "supplier-3",
+      "features": [
+        0.7,
+        0.6666666666666666,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-019",
+      "family": "family-019",
+      "supplier": "supplier-4",
+      "features": [
+        0.8,
+        0.8333333333333334,
+        1.0
+      ],
+      "purposes": [
+        "display"
+      ],
+      "unit_cost": 4,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-020",
+      "family": "family-020",
+      "supplier": "supplier-0",
+      "features": [
+        0.9,
+        1.0,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-021",
+      "family": "family-021",
+      "supplier": "supplier-1",
+      "features": [
+        1.0,
+        0.0,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-022",
+      "family": "family-022",
+      "supplier": "supplier-2",
+      "features": [
+        0.0,
+        0.16666666666666666,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-023",
+      "family": "family-023",
+      "supplier": "supplier-3",
+      "features": [
+        0.1,
+        0.3333333333333333,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-024",
+      "family": "family-024",
+      "supplier": "supplier-4",
+      "features": [
+        0.2,
+        0.5,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-025",
+      "family": "family-025",
+      "supplier": "supplier-0",
+      "features": [
+        0.3,
+        0.6666666666666666,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-026",
+      "family": "family-026",
+      "supplier": "supplier-1",
+      "features": [
+        0.4,
+        0.8333333333333334,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-027",
+      "family": "family-027",
+      "supplier": "supplier-2",
+      "features": [
+        0.5,
+        1.0,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-028",
+      "family": "family-028",
+      "supplier": "supplier-3",
+      "features": [
+        0.6,
+        0.0,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-029",
+      "family": "family-029",
+      "supplier": "supplier-4",
+      "features": [
+        0.7,
+        0.16666666666666666,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-030",
+      "family": "family-030",
+      "supplier": "supplier-0",
+      "features": [
+        0.8,
+        0.3333333333333333,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-031",
+      "family": "family-031",
+      "supplier": "supplier-1",
+      "features": [
+        0.9,
+        0.5,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-032",
+      "family": "family-032",
+      "supplier": "supplier-2",
+      "features": [
+        1.0,
+        0.6666666666666666,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-033",
+      "family": "family-033",
+      "supplier": "supplier-3",
+      "features": [
+        0.0,
+        0.8333333333333334,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-034",
+      "family": "family-034",
+      "supplier": "supplier-4",
+      "features": [
+        0.1,
+        1.0,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-035",
+      "family": "family-035",
+      "supplier": "supplier-0",
+      "features": [
+        0.2,
+        0.0,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-036",
+      "family": "family-036",
+      "supplier": "supplier-1",
+      "features": [
+        0.3,
+        0.16666666666666666,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-037",
+      "family": "family-037",
+      "supplier": "supplier-2",
+      "features": [
+        0.4,
+        0.3333333333333333,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-038",
+      "family": "family-038",
+      "supplier": "supplier-3",
+      "features": [
+        0.5,
+        0.5,
+        0.75
+      ],
+      "purposes": [
+        "display"
+      ],
+      "unit_cost": 3,
+      "label": "soft"
+    },
+    {
+      "asset_id": "asset-039",
+      "family": "family-039",
+      "supplier": "supplier-4",
+      "features": [
+        0.6,
+        0.6666666666666666,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-040",
+      "family": "family-040",
+      "supplier": "supplier-0",
+      "features": [
+        0.7,
+        0.8333333333333334,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-041",
+      "family": "family-041",
+      "supplier": "supplier-1",
+      "features": [
+        0.8,
+        1.0,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-042",
+      "family": "family-042",
+      "supplier": "supplier-2",
+      "features": [
+        0.9,
+        0.0,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-043",
+      "family": "family-043",
+      "supplier": "supplier-3",
+      "features": [
+        1.0,
+        0.16666666666666666,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4,
+      "label": "structured"
+    },
+    {
+      "asset_id": "asset-044",
+      "family": "family-044",
+      "supplier": "supplier-4",
+      "features": [
+        0.0,
+        0.3333333333333333,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1,
+      "label": "soft"
+    }
+  ],
+  "candidate_pool": [
+    {
+      "asset_id": "asset-045",
+      "family": "family-045",
+      "supplier": "supplier-0",
+      "features": [
+        0.1,
+        0.5,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-046",
+      "family": "family-046",
+      "supplier": "supplier-1",
+      "features": [
+        0.2,
+        0.6666666666666666,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-047",
+      "family": "family-047",
+      "supplier": "supplier-2",
+      "features": [
+        0.3,
+        0.8333333333333334,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-048",
+      "family": "family-048",
+      "supplier": "supplier-3",
+      "features": [
+        0.4,
+        1.0,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-048-repeat",
+      "family": "family-048",
+      "supplier": "supplier-3",
+      "features": [
+        0.4,
+        1.0,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-049",
+      "family": "family-049",
+      "supplier": "supplier-4",
+      "features": [
+        0.5,
+        0.0,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-050",
+      "family": "family-050",
+      "supplier": "supplier-0",
+      "features": [
+        0.6,
+        0.16666666666666666,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-051",
+      "family": "family-051",
+      "supplier": "supplier-1",
+      "features": [
+        0.7,
+        0.3333333333333333,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-052",
+      "family": "family-052",
+      "supplier": "supplier-2",
+      "features": [
+        0.8,
+        0.5,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-053",
+      "family": "family-053",
+      "supplier": "supplier-3",
+      "features": [
+        0.9,
+        0.6666666666666666,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-054",
+      "family": "family-054",
+      "supplier": "supplier-4",
+      "features": [
+        1.0,
+        0.8333333333333334,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-055",
+      "family": "family-055",
+      "supplier": "supplier-0",
+      "features": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-056",
+      "family": "family-056",
+      "supplier": "supplier-1",
+      "features": [
+        0.1,
+        0.0,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-056-repeat",
+      "family": "family-056",
+      "supplier": "supplier-1",
+      "features": [
+        0.1,
+        0.0,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-057",
+      "family": "family-057",
+      "supplier": "supplier-2",
+      "features": [
+        0.2,
+        0.16666666666666666,
+        0.5
+      ],
+      "purposes": [
+        "display"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-058",
+      "family": "family-058",
+      "supplier": "supplier-3",
+      "features": [
+        0.3,
+        0.3333333333333333,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-059",
+      "family": "family-059",
+      "supplier": "supplier-4",
+      "features": [
+        0.4,
+        0.5,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-060",
+      "family": "family-060",
+      "supplier": "supplier-0",
+      "features": [
+        0.5,
+        0.6666666666666666,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-061",
+      "family": "family-061",
+      "supplier": "supplier-1",
+      "features": [
+        0.6,
+        0.8333333333333334,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-062",
+      "family": "family-062",
+      "supplier": "supplier-2",
+      "features": [
+        0.7,
+        1.0,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-063",
+      "family": "family-063",
+      "supplier": "supplier-3",
+      "features": [
+        0.8,
+        0.0,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-064",
+      "family": "family-064",
+      "supplier": "supplier-4",
+      "features": [
+        0.9,
+        0.16666666666666666,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-064-repeat",
+      "family": "family-064",
+      "supplier": "supplier-4",
+      "features": [
+        0.9,
+        0.16666666666666666,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-065",
+      "family": "family-065",
+      "supplier": "supplier-0",
+      "features": [
+        1.0,
+        0.3333333333333333,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-066",
+      "family": "family-066",
+      "supplier": "supplier-1",
+      "features": [
+        0.0,
+        0.5,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-067",
+      "family": "family-067",
+      "supplier": "supplier-2",
+      "features": [
+        0.1,
+        0.6666666666666666,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-068",
+      "family": "family-068",
+      "supplier": "supplier-3",
+      "features": [
+        0.2,
+        0.8333333333333334,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-069",
+      "family": "family-069",
+      "supplier": "supplier-4",
+      "features": [
+        0.3,
+        1.0,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-070",
+      "family": "family-070",
+      "supplier": "supplier-0",
+      "features": [
+        0.4,
+        0.0,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-071",
+      "family": "family-071",
+      "supplier": "supplier-1",
+      "features": [
+        0.5,
+        0.16666666666666666,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-072",
+      "family": "family-072",
+      "supplier": "supplier-2",
+      "features": [
+        0.6,
+        0.3333333333333333,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-072-repeat",
+      "family": "family-072",
+      "supplier": "supplier-2",
+      "features": [
+        0.6,
+        0.3333333333333333,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-073",
+      "family": "family-073",
+      "supplier": "supplier-3",
+      "features": [
+        0.7,
+        0.5,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-074",
+      "family": "family-074",
+      "supplier": "supplier-4",
+      "features": [
+        0.8,
+        0.6666666666666666,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-075",
+      "family": "family-075",
+      "supplier": "supplier-0",
+      "features": [
+        0.9,
+        0.8333333333333334,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-076",
+      "family": "family-076",
+      "supplier": "supplier-1",
+      "features": [
+        1.0,
+        1.0,
+        0.25
+      ],
+      "purposes": [
+        "display"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-077",
+      "family": "family-077",
+      "supplier": "supplier-2",
+      "features": [
+        0.0,
+        0.0,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-078",
+      "family": "family-078",
+      "supplier": "supplier-3",
+      "features": [
+        0.1,
+        0.16666666666666666,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-079",
+      "family": "family-079",
+      "supplier": "supplier-4",
+      "features": [
+        0.2,
+        0.3333333333333333,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-080",
+      "family": "family-080",
+      "supplier": "supplier-0",
+      "features": [
+        0.3,
+        0.5,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-080-repeat",
+      "family": "family-080",
+      "supplier": "supplier-0",
+      "features": [
+        0.3,
+        0.5,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-081",
+      "family": "family-081",
+      "supplier": "supplier-1",
+      "features": [
+        0.4,
+        0.6666666666666666,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-082",
+      "family": "family-082",
+      "supplier": "supplier-2",
+      "features": [
+        0.5,
+        0.8333333333333334,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-083",
+      "family": "family-083",
+      "supplier": "supplier-3",
+      "features": [
+        0.6,
+        1.0,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-084",
+      "family": "family-084",
+      "supplier": "supplier-4",
+      "features": [
+        0.7,
+        0.0,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-085",
+      "family": "family-085",
+      "supplier": "supplier-0",
+      "features": [
+        0.8,
+        0.16666666666666666,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-086",
+      "family": "family-086",
+      "supplier": "supplier-1",
+      "features": [
+        0.9,
+        0.3333333333333333,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-087",
+      "family": "family-087",
+      "supplier": "supplier-2",
+      "features": [
+        1.0,
+        0.5,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-088",
+      "family": "family-088",
+      "supplier": "supplier-3",
+      "features": [
+        0.0,
+        0.6666666666666666,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-088-repeat",
+      "family": "family-088",
+      "supplier": "supplier-3",
+      "features": [
+        0.0,
+        0.6666666666666666,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-089",
+      "family": "family-089",
+      "supplier": "supplier-4",
+      "features": [
+        0.1,
+        0.8333333333333334,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-090",
+      "family": "family-090",
+      "supplier": "supplier-0",
+      "features": [
+        0.2,
+        1.0,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-091",
+      "family": "family-091",
+      "supplier": "supplier-1",
+      "features": [
+        0.3,
+        0.0,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-092",
+      "family": "family-092",
+      "supplier": "supplier-2",
+      "features": [
+        0.4,
+        0.16666666666666666,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-093",
+      "family": "family-093",
+      "supplier": "supplier-3",
+      "features": [
+        0.5,
+        0.3333333333333333,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-094",
+      "family": "family-094",
+      "supplier": "supplier-4",
+      "features": [
+        0.6,
+        0.5,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-095",
+      "family": "family-095",
+      "supplier": "supplier-0",
+      "features": [
+        0.7,
+        0.6666666666666666,
+        0.0
+      ],
+      "purposes": [
+        "display"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-096",
+      "family": "family-096",
+      "supplier": "supplier-1",
+      "features": [
+        0.8,
+        0.8333333333333334,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-096-repeat",
+      "family": "family-096",
+      "supplier": "supplier-1",
+      "features": [
+        0.8,
+        0.8333333333333334,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-097",
+      "family": "family-097",
+      "supplier": "supplier-2",
+      "features": [
+        0.9,
+        1.0,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-098",
+      "family": "family-098",
+      "supplier": "supplier-3",
+      "features": [
+        1.0,
+        0.0,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-099",
+      "family": "family-099",
+      "supplier": "supplier-4",
+      "features": [
+        0.0,
+        0.16666666666666666,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-100",
+      "family": "family-100",
+      "supplier": "supplier-0",
+      "features": [
+        0.1,
+        0.3333333333333333,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-101",
+      "family": "family-101",
+      "supplier": "supplier-1",
+      "features": [
+        0.2,
+        0.5,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-102",
+      "family": "family-102",
+      "supplier": "supplier-2",
+      "features": [
+        0.3,
+        0.6666666666666666,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-103",
+      "family": "family-103",
+      "supplier": "supplier-3",
+      "features": [
+        0.4,
+        0.8333333333333334,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-104",
+      "family": "family-104",
+      "supplier": "supplier-4",
+      "features": [
+        0.5,
+        1.0,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-104-repeat",
+      "family": "family-104",
+      "supplier": "supplier-4",
+      "features": [
+        0.5,
+        1.0,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-105",
+      "family": "family-105",
+      "supplier": "supplier-0",
+      "features": [
+        0.6,
+        0.0,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-106",
+      "family": "family-106",
+      "supplier": "supplier-1",
+      "features": [
+        0.7,
+        0.16666666666666666,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-107",
+      "family": "family-107",
+      "supplier": "supplier-2",
+      "features": [
+        0.8,
+        0.3333333333333333,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-108",
+      "family": "family-108",
+      "supplier": "supplier-3",
+      "features": [
+        0.9,
+        0.5,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-109",
+      "family": "family-109",
+      "supplier": "supplier-4",
+      "features": [
+        1.0,
+        0.6666666666666666,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-110",
+      "family": "family-110",
+      "supplier": "supplier-0",
+      "features": [
+        0.0,
+        0.8333333333333334,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-111",
+      "family": "family-111",
+      "supplier": "supplier-1",
+      "features": [
+        0.1,
+        1.0,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-112",
+      "family": "family-112",
+      "supplier": "supplier-2",
+      "features": [
+        0.2,
+        0.0,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-112-repeat",
+      "family": "family-112",
+      "supplier": "supplier-2",
+      "features": [
+        0.2,
+        0.0,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-113",
+      "family": "family-113",
+      "supplier": "supplier-3",
+      "features": [
+        0.3,
+        0.16666666666666666,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-114",
+      "family": "family-114",
+      "supplier": "supplier-4",
+      "features": [
+        0.4,
+        0.3333333333333333,
+        1.0
+      ],
+      "purposes": [
+        "display"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-115",
+      "family": "family-115",
+      "supplier": "supplier-0",
+      "features": [
+        0.5,
+        0.5,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-116",
+      "family": "family-116",
+      "supplier": "supplier-1",
+      "features": [
+        0.6,
+        0.6666666666666666,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-117",
+      "family": "family-117",
+      "supplier": "new-supplier",
+      "features": [
+        0.7,
+        0.8333333333333334,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-118",
+      "family": "family-118",
+      "supplier": "supplier-3",
+      "features": [
+        0.8,
+        1.0,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-119",
+      "family": "family-119",
+      "supplier": "supplier-4",
+      "features": [
+        0.9,
+        0.0,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-120",
+      "family": "family-120",
+      "supplier": "new-supplier",
+      "features": [
+        1.0,
+        0.16666666666666666,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-120-repeat",
+      "family": "family-120",
+      "supplier": "new-supplier",
+      "features": [
+        1.0,
+        0.16666666666666666,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-121",
+      "family": "family-121",
+      "supplier": "supplier-1",
+      "features": [
+        0.0,
+        0.3333333333333333,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-122",
+      "family": "family-122",
+      "supplier": "supplier-2",
+      "features": [
+        0.1,
+        0.5,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-123",
+      "family": "family-123",
+      "supplier": "new-supplier",
+      "features": [
+        0.2,
+        0.6666666666666666,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-124",
+      "family": "family-124",
+      "supplier": "supplier-4",
+      "features": [
+        0.3,
+        0.8333333333333334,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-125",
+      "family": "family-125",
+      "supplier": "supplier-0",
+      "features": [
+        0.4,
+        1.0,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-126",
+      "family": "family-126",
+      "supplier": "new-supplier",
+      "features": [
+        0.5,
+        0.0,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-127",
+      "family": "family-127",
+      "supplier": "supplier-2",
+      "features": [
+        0.6,
+        0.16666666666666666,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-128",
+      "family": "family-128",
+      "supplier": "supplier-3",
+      "features": [
+        0.7,
+        0.3333333333333333,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-128-repeat",
+      "family": "family-128",
+      "supplier": "supplier-3",
+      "features": [
+        0.7,
+        0.3333333333333333,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-129",
+      "family": "family-129",
+      "supplier": "new-supplier",
+      "features": [
+        0.8,
+        0.5,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-130",
+      "family": "family-130",
+      "supplier": "supplier-0",
+      "features": [
+        0.9,
+        0.6666666666666666,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-131",
+      "family": "family-131",
+      "supplier": "supplier-1",
+      "features": [
+        1.0,
+        0.8333333333333334,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-132",
+      "family": "family-132",
+      "supplier": "new-supplier",
+      "features": [
+        0.0,
+        1.0,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-133",
+      "family": "family-133",
+      "supplier": "supplier-3",
+      "features": [
+        0.1,
+        0.0,
+        0.75
+      ],
+      "purposes": [
+        "display"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-134",
+      "family": "family-134",
+      "supplier": "supplier-4",
+      "features": [
+        0.2,
+        0.16666666666666666,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-135",
+      "family": "family-135",
+      "supplier": "new-supplier",
+      "features": [
+        0.3,
+        0.3333333333333333,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-136",
+      "family": "family-136",
+      "supplier": "supplier-1",
+      "features": [
+        0.4,
+        0.5,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-136-repeat",
+      "family": "family-136",
+      "supplier": "supplier-1",
+      "features": [
+        0.4,
+        0.5,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-137",
+      "family": "family-137",
+      "supplier": "supplier-2",
+      "features": [
+        0.5,
+        0.6666666666666666,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-138",
+      "family": "family-138",
+      "supplier": "new-supplier",
+      "features": [
+        0.6,
+        0.8333333333333334,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-139",
+      "family": "family-139",
+      "supplier": "supplier-4",
+      "features": [
+        0.7,
+        1.0,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-140",
+      "family": "family-140",
+      "supplier": "supplier-0",
+      "features": [
+        0.8,
+        0.0,
+        0.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-141",
+      "family": "family-141",
+      "supplier": "new-supplier",
+      "features": [
+        0.9,
+        0.16666666666666666,
+        0.25
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 2
+    },
+    {
+      "asset_id": "asset-142",
+      "family": "family-142",
+      "supplier": "supplier-2",
+      "features": [
+        1.0,
+        0.3333333333333333,
+        0.5
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 3
+    },
+    {
+      "asset_id": "asset-143",
+      "family": "family-143",
+      "supplier": "supplier-3",
+      "features": [
+        0.0,
+        0.5,
+        0.75
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 4
+    },
+    {
+      "asset_id": "asset-144",
+      "family": "family-144",
+      "supplier": "new-supplier",
+      "features": [
+        0.1,
+        0.6666666666666666,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    },
+    {
+      "asset_id": "asset-144-repeat",
+      "family": "family-144",
+      "supplier": "new-supplier",
+      "features": [
+        0.1,
+        0.6666666666666666,
+        1.0
+      ],
+      "purposes": [
+        "display",
+        "training"
+      ],
+      "unit_cost": 1
+    }
+  ],
+  "receipt_revision_examples": [
+    {
+      "receipt_id": "receipt-51",
+      "family": "family-051",
+      "revision": 2,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 0
+    }
+  ],
+  "withdrawals": [
+    {
+      "family": "family-050",
+      "purpose": "training",
+      "effective_round": 2
+    }
+  ]
+}

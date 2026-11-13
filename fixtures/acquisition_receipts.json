@@ -1,0 +1,806 @@
+{
+  "schema_version": 1,
+  "allowed_use": "receipt-simulation-only",
+  "receipts": [
+    {
+      "receipt_id": "receipt-45",
+      "family": "family-045",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-46",
+      "family": "family-046",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-47",
+      "family": "family-047",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-48",
+      "family": "family-048",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-49",
+      "family": "family-049",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-50",
+      "family": "family-050",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-51",
+      "family": "family-051",
+      "revision": 1,
+      "status": "unjudgeable",
+      "label": null,
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-52",
+      "family": "family-052",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-53",
+      "family": "family-053",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-54",
+      "family": "family-054",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-55",
+      "family": "family-055",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-56",
+      "family": "family-056",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-57",
+      "family": "family-057",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-58",
+      "family": "family-058",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-59",
+      "family": "family-059",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-60",
+      "family": "family-060",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-61",
+      "family": "family-061",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-62",
+      "family": "family-062",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-63",
+      "family": "family-063",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-64",
+      "family": "family-064",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-65",
+      "family": "family-065",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-66",
+      "family": "family-066",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-67",
+      "family": "family-067",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-68",
+      "family": "family-068",
+      "revision": 1,
+      "status": "unjudgeable",
+      "label": null,
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-69",
+      "family": "family-069",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-70",
+      "family": "family-070",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-71",
+      "family": "family-071",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-72",
+      "family": "family-072",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-73",
+      "family": "family-073",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-74",
+      "family": "family-074",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-75",
+      "family": "family-075",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-76",
+      "family": "family-076",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-77",
+      "family": "family-077",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-78",
+      "family": "family-078",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-79",
+      "family": "family-079",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-80",
+      "family": "family-080",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-81",
+      "family": "family-081",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-82",
+      "family": "family-082",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-83",
+      "family": "family-083",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-84",
+      "family": "family-084",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-85",
+      "family": "family-085",
+      "revision": 1,
+      "status": "unjudgeable",
+      "label": null,
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-86",
+      "family": "family-086",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-87",
+      "family": "family-087",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-88",
+      "family": "family-088",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-89",
+      "family": "family-089",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-90",
+      "family": "family-090",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-91",
+      "family": "family-091",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-92",
+      "family": "family-092",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-93",
+      "family": "family-093",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-94",
+      "family": "family-094",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-95",
+      "family": "family-095",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-96",
+      "family": "family-096",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-97",
+      "family": "family-097",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-98",
+      "family": "family-098",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-99",
+      "family": "family-099",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-100",
+      "family": "family-100",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-101",
+      "family": "family-101",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-102",
+      "family": "family-102",
+      "revision": 1,
+      "status": "unjudgeable",
+      "label": null,
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-103",
+      "family": "family-103",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-104",
+      "family": "family-104",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-105",
+      "family": "family-105",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-106",
+      "family": "family-106",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-107",
+      "family": "family-107",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-108",
+      "family": "family-108",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-109",
+      "family": "family-109",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-110",
+      "family": "family-110",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-111",
+      "family": "family-111",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-112",
+      "family": "family-112",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-113",
+      "family": "family-113",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-114",
+      "family": "family-114",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-115",
+      "family": "family-115",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-116",
+      "family": "family-116",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-117",
+      "family": "family-117",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-118",
+      "family": "family-118",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-119",
+      "family": "family-119",
+      "revision": 1,
+      "status": "unjudgeable",
+      "label": null,
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-120",
+      "family": "family-120",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-121",
+      "family": "family-121",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-122",
+      "family": "family-122",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-123",
+      "family": "family-123",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-124",
+      "family": "family-124",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-125",
+      "family": "family-125",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-126",
+      "family": "family-126",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-127",
+      "family": "family-127",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-128",
+      "family": "family-128",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-129",
+      "family": "family-129",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-130",
+      "family": "family-130",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-131",
+      "family": "family-131",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-132",
+      "family": "family-132",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-133",
+      "family": "family-133",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-134",
+      "family": "family-134",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-135",
+      "family": "family-135",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-136",
+      "family": "family-136",
+      "revision": 1,
+      "status": "unjudgeable",
+      "label": null,
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-137",
+      "family": "family-137",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-138",
+      "family": "family-138",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-139",
+      "family": "family-139",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-140",
+      "family": "family-140",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 1
+    },
+    {
+      "receipt_id": "receipt-141",
+      "family": "family-141",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 2
+    },
+    {
+      "receipt_id": "receipt-142",
+      "family": "family-142",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 3
+    },
+    {
+      "receipt_id": "receipt-143",
+      "family": "family-143",
+      "revision": 1,
+      "status": "labelled",
+      "label": "soft",
+      "charged_cost": 4
+    },
+    {
+      "receipt_id": "receipt-144",
+      "family": "family-144",
+      "revision": 1,
+      "status": "labelled",
+      "label": "structured",
+      "charged_cost": 1
+    }
+  ]
+}

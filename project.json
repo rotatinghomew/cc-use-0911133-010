@@ -1,0 +1,8 @@
+{
+  "package": "fashion_data_foundry",
+  "tests": "tests/data_asset_trials",
+  "entrypoint": "fashion_data_foundry.workbench.cli",
+  "fixture_prefix": [],
+  "database_flag": "--database",
+  "analysis_fixture": "fixtures/label_acquisition.json"
+}
